@@ -5,5 +5,5 @@ if(fileName.startsWith("#") || fileName.endsWith("pdf") || fileName.endsWith("do
     console.log("Store");
 }
 else{
-    console.log("Delete")
+    console.log("Delete");
 }
